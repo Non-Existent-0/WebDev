@@ -1,0 +1,20 @@
+::selection {
+    cursor: wait;
+    background-color: cornflowerblue;
+    color: white;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 15px;
+}
+.center {
+    text-align: center;
+}
+table:hover {
+    background-color: rgb(93, 131, 175);
+}
+tr td:hover {
+    color: rgb(255, 255, 255)
+}
